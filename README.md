@@ -1,12 +1,7 @@
 Luassert
 ========
 
-[![Busted](https://img.shields.io/github/actions/workflow/status/lunarmodules/luassert/busted.yml?branch=master&label=Busted&logo=Lua)](https://github.com/lunarmodules/luassert/actions?workflow=Busted)
-[![Luacheck](https://img.shields.io/github/actions/workflow/status/lunarmodules/luassert/luacheck.yml?branch=master&label=Luacheck&logo=Lua)](https://github.com/lunarmodules/luassert/actions?workflow=Luacheck)
-[![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/lunarmodules/luassert?label=Tag&logo=GitHub)](https://github.com/lunarmodules/luassert/releases)
-[![Luarocks](https://img.shields.io/luarocks/v/lunarmodules/luassert?label=Luarocks&logo=Lua)](https://luarocks.org/modules/lunarmodules/luassert)
-
-luassert extends Lua's built-in assertions to provide additional tests and the ability to create your own. You can modify chains of assertions with `not`.
+`luassert` extends Lua's built-in assertions to provide additional tests and the ability to create your own. You can modify chains of assertions with `not`.
 
 Check out [busted](https://lunarmodules.github.io/busted/#asserts) for extended examples.
 
